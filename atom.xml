@@ -3,11 +3,11 @@
   <title>java学习面试</title>
   
   <subtitle>关注下方微信公众号，可得10TJava学习资源</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://javamianshi.vercel.app/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://javamianshi.vercel.app/"/>
   <updated>2022-06-11T16:02:03.778Z</updated>
-  <id>http://example.com/</id>
+  <id>https://javamianshi.vercel.app/</id>
   
   <author>
     <name>Java面试题</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>java基础面试题</title>
-    <link href="http://example.com/posts/21664.html"/>
-    <id>http://example.com/posts/21664.html</id>
+    <link href="https://javamianshi.vercel.app/posts/21664.html"/>
+    <id>https://javamianshi.vercel.app/posts/21664.html</id>
     <published>2022-06-11T14:40:45.000Z</published>
     <updated>2022-06-11T16:02:03.778Z</updated>
     
@@ -184,14 +184,14 @@
     
     
     
-    <category term="Java基础" scheme="http://example.com/tags/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="https://javamianshi.vercel.app/tags/Java%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>text2</title>
-    <link href="http://example.com/posts/2952.html"/>
-    <id>http://example.com/posts/2952.html</id>
+    <link href="https://javamianshi.vercel.app/posts/2952.html"/>
+    <id>https://javamianshi.vercel.app/posts/2952.html</id>
     <published>2022-06-08T16:14:39.000Z</published>
     <updated>2022-06-10T15:42:33.653Z</updated>
     
@@ -211,8 +211,8 @@
   
   <entry>
     <title>text1</title>
-    <link href="http://example.com/posts/2760.html"/>
-    <id>http://example.com/posts/2760.html</id>
+    <link href="https://javamianshi.vercel.app/posts/2760.html"/>
+    <id>https://javamianshi.vercel.app/posts/2760.html</id>
     <published>2022-06-08T15:17:29.000Z</published>
     <updated>2022-06-10T17:41:57.091Z</updated>
     
@@ -223,21 +223,21 @@
     
     
     
-    <category term="web前端" scheme="http://example.com/categories/web%E5%89%8D%E7%AB%AF/"/>
+    <category term="web前端" scheme="https://javamianshi.vercel.app/categories/web%E5%89%8D%E7%AB%AF/"/>
     
     
-    <category term="jQuery" scheme="http://example.com/tags/jQuery/"/>
+    <category term="jQuery" scheme="https://javamianshi.vercel.app/tags/jQuery/"/>
     
-    <category term="表格" scheme="http://example.com/tags/%E8%A1%A8%E6%A0%BC/"/>
+    <category term="表格" scheme="https://javamianshi.vercel.app/tags/%E8%A1%A8%E6%A0%BC/"/>
     
-    <category term="表单验证" scheme="http://example.com/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/"/>
+    <category term="表单验证" scheme="https://javamianshi.vercel.app/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/16107.html"/>
-    <id>http://example.com/posts/16107.html</id>
+    <link href="https://javamianshi.vercel.app/posts/16107.html"/>
+    <id>https://javamianshi.vercel.app/posts/16107.html</id>
     <published>2022-06-08T13:37:17.356Z</published>
     <updated>2022-06-10T15:42:33.656Z</updated>
     
@@ -248,7 +248,7 @@
     
     
     
-    <category term="Hexo" scheme="http://example.com/categories/Hexo/"/>
+    <category term="Hexo" scheme="https://javamianshi.vercel.app/categories/Hexo/"/>
     
     
   </entry>

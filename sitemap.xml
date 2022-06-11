@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/posts/21664.html</loc>
+    <loc>https://javamianshi.vercel.app/posts/21664.html</loc>
     
     <lastmod>2022-06-11</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/2760.html</loc>
+    <loc>https://javamianshi.vercel.app/posts/2760.html</loc>
     
     <lastmod>2022-06-10</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://javamianshi.vercel.app/tags/index.html</loc>
     
     <lastmod>2022-06-10</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://javamianshi.vercel.app/categories/index.html</loc>
     
     <lastmod>2022-06-10</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/16107.html</loc>
+    <loc>https://javamianshi.vercel.app/posts/16107.html</loc>
     
     <lastmod>2022-06-10</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/2952.html</loc>
+    <loc>https://javamianshi.vercel.app/posts/2952.html</loc>
     
     <lastmod>2022-06-10</lastmod>
     
@@ -57,7 +57,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://javamianshi.vercel.app/</loc>
     <lastmod>2022-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -65,28 +65,28 @@
 
   
   <url>
-    <loc>http://example.com/tags/jQuery/</loc>
+    <loc>https://javamianshi.vercel.app/tags/jQuery/</loc>
     <lastmod>2022-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E8%A1%A8%E6%A0%BC/</loc>
+    <loc>https://javamianshi.vercel.app/tags/%E8%A1%A8%E6%A0%BC/</loc>
     <lastmod>2022-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/</loc>
+    <loc>https://javamianshi.vercel.app/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/</loc>
     <lastmod>2022-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/Java%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://javamianshi.vercel.app/tags/Java%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2022-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -95,14 +95,14 @@
 
   
   <url>
-    <loc>http://example.com/categories/Hexo/</loc>
+    <loc>https://javamianshi.vercel.app/categories/Hexo/</loc>
     <lastmod>2022-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/web%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://javamianshi.vercel.app/categories/web%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2022-06-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
