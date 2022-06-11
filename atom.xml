@@ -18,8 +18,8 @@
   
   <entry>
     <title>java基础面试题</title>
-    <link href="http://example.com/2022/06/11/java%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
-    <id>http://example.com/2022/06/11/java%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98/</id>
+    <link href="http://example.com/posts/21664.html"/>
+    <id>http://example.com/posts/21664.html</id>
     <published>2022-06-11T14:40:45.000Z</published>
     <updated>2022-06-11T16:02:03.778Z</updated>
     
@@ -189,22 +189,9 @@
   </entry>
   
   <entry>
-    <title>textqq</title>
-    <link href="http://example.com/2022/06/09/textqq/"/>
-    <id>http://example.com/2022/06/09/textqq/</id>
-    <published>2022-06-08T16:16:01.000Z</published>
-    <updated>2022-06-10T15:42:33.655Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>text2</title>
-    <link href="http://example.com/2022/06/09/text2/"/>
-    <id>http://example.com/2022/06/09/text2/</id>
+    <link href="http://example.com/posts/2952.html"/>
+    <id>http://example.com/posts/2952.html</id>
     <published>2022-06-08T16:14:39.000Z</published>
     <updated>2022-06-10T15:42:33.653Z</updated>
     
@@ -224,8 +211,8 @@
   
   <entry>
     <title>text1</title>
-    <link href="http://example.com/2022/06/08/text1/"/>
-    <id>http://example.com/2022/06/08/text1/</id>
+    <link href="http://example.com/posts/2760.html"/>
+    <id>http://example.com/posts/2760.html</id>
     <published>2022-06-08T15:17:29.000Z</published>
     <updated>2022-06-10T17:41:57.091Z</updated>
     
@@ -249,8 +236,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/06/08/hello-world/"/>
-    <id>http://example.com/2022/06/08/hello-world/</id>
+    <link href="http://example.com/posts/16107.html"/>
+    <id>http://example.com/posts/16107.html</id>
     <published>2022-06-08T13:37:17.356Z</published>
     <updated>2022-06-10T15:42:33.656Z</updated>
     
