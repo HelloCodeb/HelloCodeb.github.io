@@ -433,7 +433,7 @@
 <li>URL(Uniform Resource Location)：中文全称为统一资源定位符，主要作用是提供资源的路径。</li>
 </ul>
 <p>有个经典的比喻是URI像是身份证，可以唯一标识一个人，而URL更像一个住址，可以通过URL找到这个人。</p>
-<h4><span id="dns-de-gong-zuo-liu-cheng">DNS的工作流程</span><a href="#dns-de-gong-zuo-liu-cheng" class="header-anchor">#</a></h4><p>DNS的定义：DNS的全称是domain name system，即域名系统。DNS是因特网上作为域名和IP地址相互映射的一个分布式数据库，能够使用户更方便的去访问互联网而不用去记住能够被机器直接读取的IP地址。比如大家访问百度，更多地肯定是访问<a target="_blank" rel="noopener" href="http://www.baidu.com,而不是访问112.80.248.74,因为这几乎无规则的ip地址实在太难记了.dns要做的就是将www.baidu.com解析成112.80.248.74./">www.baidu.com，而不是访问112.80.248.74，因为这几乎无规则的IP地址实在太难记了。DNS要做的就是将www.baidu.com解析成112.80.248.74。</a></p>
+<h4><span id="dns-de-gong-zuo-liu-cheng">DNS的工作流程</span><a href="#dns-de-gong-zuo-liu-cheng" class="header-anchor">#</a></h4><p>DNS的定义：DNS的全称是domain name system，即域名系统。DNS是因特网上作为域名和IP地址相互映射的一个分布式数据库，能够使用户更方便的去访问互联网而不用去记住能够被机器直接读取的IP地址。比如大家访问百度，更多地肯定是访问<span class="exturl" data-url="aHR0cDovL3d3dy5iYWlkdS5jb20s6ICM5LiN5piv6K6/6ZeuMTEyLjgwLjI0OC43NCzlm6DkuLrov5nlh6DkuY7ml6Dop4TliJnnmoRpcOWcsOWdgOWunuWcqOWkqumavuiusOS6hi5kbnPopoHlgZrnmoTlsLHmmK/lsIZ3d3cuYmFpZHUuY29t6Kej5p6Q5oiQMTEyLjgwLjI0OC43NC4v" title="http://www.baidu.com,而不是访问112.80.248.74,因为这几乎无规则的ip地址实在太难记了.dns要做的就是将www.baidu.com解析成112.80.248.74./">www.baidu.com，而不是访问112.80.248.74，因为这几乎无规则的IP地址实在太难记了。DNS要做的就是将www.baidu.com解析成112.80.248.74。<i class="fa fa-external-link"></i></span></p>
 <p><strong>DNS是集群式的工作方式还是 单点式的，为什么？</strong></p>
 <p> 答案是集群式的，很容易想到的一个方案就是只用一个DNS服务器，包含了所有域名和IP地址的映射。尽管这种设计方式看起来很简单，但是缺点显而易见，如果这个唯一的DNS服务器出了故障，那么就全完了，因特网就几乎崩了。为了避免这种情况出现，DNS系统采用的是分布式的层次数据数据库模式，还有缓存的机制也能解决这种问题。</p>
 <p><strong>DNS的工作流程</strong></p>
@@ -443,13 +443,13 @@
 <p>简单来说，递归查询就是，小明问了小红一个问题，小红不知道，但小红是个热心肠，小红就去问小王了，小王把答案告诉小红后，小红又去把答案告诉了小明。迭代查询就是，小明问了小红一个问题，小红也不知道，然后小红让小明去问小王，小明又去问小王了，小王把答案告诉了小明。</p>
 </blockquote>
 <ol>
-<li>在浏览器中输入<a target="_blank" rel="noopener" href="http://www.baidu.com域名,操作系统会先检查自己本地的hosts文件是否有这个域名的映射关系,如果有,就先调用这个ip地址映射,完成域名解析./">www.baidu.com域名，操作系统会先检查自己本地的hosts文件是否有这个域名的映射关系，如果有，就先调用这个IP地址映射，完成域名解析。</a></li>
+<li>在浏览器中输入<span class="exturl" data-url="aHR0cDovL3d3dy5iYWlkdS5jb23ln5/lkI0s5pON5L2c57O757uf5Lya5YWI5qOA5p+l6Ieq5bex5pys5Zyw55qEaG9zdHPmlofku7bmmK/lkKbmnInov5nkuKrln5/lkI3nmoTmmKDlsITlhbPns7ss5aaC5p6c5pyJLOWwseWFiOiwg+eUqOi/meS4qmlw5Zyw5Z2A5pig5bCELOWujOaIkOWfn+WQjeino+aekC4v" title="http://www.baidu.com域名,操作系统会先检查自己本地的hosts文件是否有这个域名的映射关系,如果有,就先调用这个ip地址映射,完成域名解析./">www.baidu.com域名，操作系统会先检查自己本地的hosts文件是否有这个域名的映射关系，如果有，就先调用这个IP地址映射，完成域名解析。<i class="fa fa-external-link"></i></span></li>
 <li>如果hosts文件中没有，则查询本地DNS解析器缓存，如果有，则完成地址解析。</li>
 <li>如果本地DNS解析器缓存中没有，则去查找本地DNS服务器，如果查到，完成解析。</li>
 <li>如果没有，则本地服务器会向根域名服务器发起查询请求。根域名服务器会告诉本地域名服务器去查询哪个顶级域名服务器。</li>
 <li>本地域名服务器向顶级域名服务器发起查询请求，顶级域名服务器会告诉本地域名服务器去查找哪个权限域名服务器。</li>
-<li>本地域名服务器向权限域名服务器发起查询请求，权限域名服务器告诉本地域名服务器<a target="_blank" rel="noopener" href="http://www.baidu.com所对应的ip地址./">www.baidu.com所对应的IP地址。</a></li>
-<li>本地域名服务器告诉主机<a target="_blank" rel="noopener" href="http://www.baidu.com所对应的ip地址./">www.baidu.com所对应的IP地址。</a></li>
+<li>本地域名服务器向权限域名服务器发起查询请求，权限域名服务器告诉本地域名服务器<span class="exturl" data-url="aHR0cDovL3d3dy5iYWlkdS5jb23miYDlr7nlupTnmoRpcOWcsOWdgC4v" title="http://www.baidu.com所对应的ip地址./">www.baidu.com所对应的IP地址。<i class="fa fa-external-link"></i></span></li>
+<li>本地域名服务器告诉主机<span class="exturl" data-url="aHR0cDovL3d3dy5iYWlkdS5jb23miYDlr7nlupTnmoRpcOWcsOWdgC4v" title="http://www.baidu.com所对应的ip地址./">www.baidu.com所对应的IP地址。<i class="fa fa-external-link"></i></span></li>
 </ol>
 <h4><span id="liao-jie-arp-xie-yi-ma">了解ARP协议吗?</span><a href="#liao-jie-arp-xie-yi-ma" class="header-anchor">#</a></h4><p>ARP协议属于网络层的协议，主要作用是实现从IP地址转换为MAC地址。在每个主机或者路由器中都建有一个ARP缓存表，表中有IP地址及IP地址对应的MAC地址。先来看一下什么时IP地址和MAC地址。</p>
 <ul>
@@ -590,7 +590,7 @@
 <ol>
 <li>快恢复：从上上图圈4可以看到，当发送收到三个重复的ACK，会进行快重传和快恢复。快恢复是指将ssthresh设置为发生快重传时的cwnd数量的一半，而cwnd不是设置为1而是设置为为门限值ssthresh，并开始拥塞避免阶段。</li>
 </ol>
-<h4><span id="ip-wang-luo-zhi-jian-hu-lian-de-xie-yi">IP（网络之间互连的协议）</span><a href="#ip-wang-luo-zhi-jian-hu-lian-de-xie-yi" class="header-anchor">#</a></h4><p><strong>互联网协议地址</strong>（英语：Internet Protocol Address，又译为<strong>网际协议地址</strong>），缩写为<strong>IP地址</strong>（英语：IP Address），是分配给用户上网使用的<a href="https://link.zhihu.com/?target=https://baike.baidu.com/item/%E7%BD%91%E9%99%85%E5%8D%8F%E8%AE%AE">网际协议</a>（英语：Internet Protocol, IP）的设备的数字标签。常见的IP地址分为<a href="https://link.zhihu.com/?target=https://baike.baidu.com/item/IPv4">IPv4</a>与<a href="https://link.zhihu.com/?target=https://baike.baidu.com/item/IPv6">IPv6</a>两大类，但是也有其他不常用的小分类。</p>
+<h4><span id="ip-wang-luo-zhi-jian-hu-lian-de-xie-yi">IP（网络之间互连的协议）</span><a href="#ip-wang-luo-zhi-jian-hu-lian-de-xie-yi" class="header-anchor">#</a></h4><p><strong>互联网协议地址</strong>（英语：Internet Protocol Address，又译为<strong>网际协议地址</strong>），缩写为<strong>IP地址</strong>（英语：IP Address），是分配给用户上网使用的<span class="exturl" data-url="aHR0cHM6Ly9saW5rLnpoaWh1LmNvbS8/dGFyZ2V0PWh0dHBzOi8vYmFpa2UuYmFpZHUuY29tL2l0ZW0vJUU3JUJEJTkxJUU5JTk5JTg1JUU1JThEJThGJUU4JUFFJUFF" title="https://link.zhihu.com/?target=https://baike.baidu.com/item/%E7%BD%91%E9%99%85%E5%8D%8F%E8%AE%AE">网际协议<i class="fa fa-external-link"></i></span>（英语：Internet Protocol, IP）的设备的数字标签。常见的IP地址分为<span class="exturl" data-url="aHR0cHM6Ly9saW5rLnpoaWh1LmNvbS8/dGFyZ2V0PWh0dHBzOi8vYmFpa2UuYmFpZHUuY29tL2l0ZW0vSVB2NA==" title="https://link.zhihu.com/?target=https://baike.baidu.com/item/IPv4">IPv4<i class="fa fa-external-link"></i></span>与<span class="exturl" data-url="aHR0cHM6Ly9saW5rLnpoaWh1LmNvbS8/dGFyZ2V0PWh0dHBzOi8vYmFpa2UuYmFpZHUuY29tL2l0ZW0vSVB2Ng==" title="https://link.zhihu.com/?target=https://baike.baidu.com/item/IPv6">IPv6<i class="fa fa-external-link"></i></span>两大类，但是也有其他不常用的小分类。</p>
 <p><img src="https://hexojava.oss-cn-hangzhou.aliyuncs.com/img/v2-867b5f3d9e240b2bc2a2f8412d864a76_1440w.jpg" alt="v2-867b5f3d9e240b2bc2a2f8412d864a76_1440w"></p>
 <ul>
 <li><strong>版本</strong> : 有 4（IPv4）和 6（IPv6）两个值；</li>
@@ -660,7 +660,7 @@
 </ol>
 <h4><span id="ru-guo-yi-jing-jian-li-liao-lian-jie-dan-shi-ke-hu-duan-tu-ran-chu-xian-gu-zhang-liao-zen-me-ban">如果已经建立了连接，但是客户端突然出现故障了怎么办？</span><a href="#ru-guo-yi-jing-jian-li-liao-lian-jie-dan-shi-ke-hu-duan-tu-ran-chu-xian-gu-zhang-liao-zen-me-ban" class="header-anchor">#</a></h4><p>如果TCP连接已经建立，在通信过程中，客户端突然故障，那么服务端不会一直等下去，过一段时间就关闭连接了。具体原理是TCP有一个保活机制，主要用在服务器端，用于检测已建立TCP链接的客户端的状态，防止因客户端崩溃或者客户端网络不可达，而服务器端一直保持该TCP链接，占用服务器端的大量资源(因为Linux系统中可以创建的总TCP链接数是有限制的)。</p>
 <p>保活机制原理：设置TCP保活机制的保活时间keepIdle，即在TCP链接超过该时间没有任何数据交互时，发送保活探测报文；设置保活探测报文的发送时间间隔keepInterval；设置保活探测报文的总发送次数keepCount。如果在keepCount次的保活探测报文均没有收到客户端的回应，则服务器端即关闭与客户端的TCP链接。</p>
-<p>具体细节请看这篇博客<a target="_blank" rel="noopener" href="https://link.segmentfault.com/?enc=sUkPedYXReogbTfNn4U7tA==.Con9HcUZKONYh3fvdtPy1JzfaQ9wli+sQQgSZ5nK9X6X5shmvA7PwNy/p/djdUBwQe1CIv+vNy0wQ5rwlrqwqw==">TCP通信过程中异常情况整理</a>。</p>
+<p>具体细节请看这篇博客<span class="exturl" data-url="aHR0cHM6Ly9saW5rLnNlZ21lbnRmYXVsdC5jb20vP2VuYz1zVWtQZWRZWFJlb2diVGZObjRVN3RBPT0uQ29uOUhjVVpLT05ZaDNmdmR0UHkxSnpmYVE5d2xpK3NRUWdTWjVuSzlYNlg1c2htdkE3UHdOeS9wL2RqZFVCd1FlMUNJdit2Tnkwd1E1cndscnF3cXc9PQ==" title="https://link.segmentfault.com/?enc=sUkPedYXReogbTfNn4U7tA==.Con9HcUZKONYh3fvdtPy1JzfaQ9wli+sQQgSZ5nK9X6X5shmvA7PwNy/p/djdUBwQe1CIv+vNy0wQ5rwlrqwqw==">TCP通信过程中异常情况整理<i class="fa fa-external-link"></i></span>。</p>
 <h4><span id="http-yu-https-de-qu-bie">HTTP 与 HTTPS 的区别</span><a href="#http-yu-https-de-qu-bie" class="header-anchor">#</a></h4><table>
 <thead>
 <tr>
@@ -908,7 +908,7 @@
 <p>Session是通过Cookie实现的，和Cookie不同的是，Session是存在服务端的。当客户端浏览器第一次访问服务器时，服务器会为浏览器创建一个sessionid，将sessionid放到Cookie中，存在客户端浏览器。比如浏览器访问的是购物网站，将一本《图解HTTP》放到了购物车，当浏览器再次访问服务器时，服务器会取出Cookie中的sessionid，并根据sessionid获取会话中的存储的信息，确认浏览器的身份是上次将《图解HTTP》放入到购物车那个用户。</p>
 </li>
 <li><p>Token</p>
-<p>客户端在浏览器第一次访问服务端时，服务端生成的一串字符串作为Token发给客户端浏览器，下次浏览器在访问服务端时携带token即可无需验证用户名和密码，省下来大量的资源开销。看到这里很多人感觉这不是和sessionid作用一样吗？其实是不一样的，但是本文章主要针对面试，知识点很多，篇幅有限，几句话也解释不清楚，大家可以看看这篇文章，我觉得说的非常清楚了。<a target="_blank" rel="noopener" href="https://link.segmentfault.com/?enc=iyDK9cxsH+HqQ8vlJxa33g==.E3nEsjx4dtUejsvlpzVni1jZ6Ms8M+66ozH1RnjhcaXxVPKhyzt/HrT0OJ+DeL8SU3LtuMVwonAcOsYndxk8Vw==">cookie、session与token的真正区别</a></p>
+<p>客户端在浏览器第一次访问服务端时，服务端生成的一串字符串作为Token发给客户端浏览器，下次浏览器在访问服务端时携带token即可无需验证用户名和密码，省下来大量的资源开销。看到这里很多人感觉这不是和sessionid作用一样吗？其实是不一样的，但是本文章主要针对面试，知识点很多，篇幅有限，几句话也解释不清楚，大家可以看看这篇文章，我觉得说的非常清楚了。<span class="exturl" data-url="aHR0cHM6Ly9saW5rLnNlZ21lbnRmYXVsdC5jb20vP2VuYz1peURLOWN4c0grSHFROHZsSnhhMzNnPT0uRTNuRXNqeDRkdFVlanN2bHB6Vm5pMWpaNk1zOE0rNjZvekgxUm5qaGNhWHhWUEtoeXp0L0hyVDBPSitEZUw4U1UzTHR1TVZ3b25BY09zWW5keGs4Vnc9PQ==" title="https://link.segmentfault.com/?enc=iyDK9cxsH+HqQ8vlJxa33g==.E3nEsjx4dtUejsvlpzVni1jZ6Ms8M+66ozH1RnjhcaXxVPKhyzt/HrT0OJ+DeL8SU3LtuMVwonAcOsYndxk8Vw==">cookie、session与token的真正区别<i class="fa fa-external-link"></i></span></p>
 <p>下面为了方便记忆，做了一个表格进行对比。</p>
 <table>
 <thead>
