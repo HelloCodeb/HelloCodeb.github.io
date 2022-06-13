@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://javamianshi.vercel.app/posts/25692.html</loc>
+    
+    <lastmod>2022-06-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://javamianshi.vercel.app/posts/52041.html</loc>
     
     <lastmod>2022-06-13</lastmod>
@@ -129,15 +138,6 @@
   
   <url>
     <loc>https://javamianshi.vercel.app/posts/7192.html</loc>
-    
-    <lastmod>2022-06-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://javamianshi.vercel.app/posts/25692.html</loc>
     
     <lastmod>2022-06-13</lastmod>
     
