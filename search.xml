@@ -1,6 +1,88 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>网站导航</title>
+    <url>/posts/35545.html</url>
+    <content><![CDATA[<h2><span id="wang-zhan-gai-lan">网站概览</span><a href="#wang-zhan-gai-lan" class="header-anchor">#</a></h2><ul>
+<li><p><a href="https://javamianshi.vercel.app/">Java 面试指南</a> ：一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选面向offer学习编程！</p>
+<table>
+<thead>
+<tr>
+<th>Java面试题</th>
+<th>面试题链接</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Java基础面试题</td>
+<td><a href="https://javamianshi.vercel.app/posts/25692.html">https://javamianshi.vercel.app/posts/25692.html</a></td>
+</tr>
+<tr>
+<td>Java集合容器面试题</td>
+<td><a href="https://javamianshi.vercel.app/posts/7192.html">https://javamianshi.vercel.app/posts/7192.html</a></td>
+</tr>
+<tr>
+<td>JVM面试题</td>
+<td><a href="https://javamianshi.vercel.app/posts/23494.html">https://javamianshi.vercel.app/posts/23494.html</a></td>
+</tr>
+<tr>
+<td>计算机网络面试题</td>
+<td><a href="https://javamianshi.vercel.app/posts/61055.html">https://javamianshi.vercel.app/posts/61055.html</a></td>
+</tr>
+<tr>
+<td>操作系统面试题</td>
+<td><a href="https://javamianshi.vercel.app/posts/43996.html">https://javamianshi.vercel.app/posts/43996.html</a></td>
+</tr>
+<tr>
+<td>数据结构面试题</td>
+<td><a href="https://javamianshi.vercel.app/posts/63819.html">https://javamianshi.vercel.app/posts/63819.html</a></td>
+</tr>
+<tr>
+<td>设计模式面试题</td>
+<td><a href="https://javamianshi.vercel.app/posts/28064.html">https://javamianshi.vercel.app/posts/28064.html</a></td>
+</tr>
+<tr>
+<td>Spring、Spring boot、Spring Cloud面试题</td>
+<td><a href="https://javamianshi.vercel.app/posts/48125.html">https://javamianshi.vercel.app/posts/48125.html</a></td>
+</tr>
+<tr>
+<td>Mysql面试题</td>
+<td><a href="https://javamianshi.vercel.app/posts/6760.html">https://javamianshi.vercel.app/posts/6760.html</a></td>
+</tr>
+<tr>
+<td>elasticsearch面试题</td>
+<td><a href="https://javamianshi.vercel.app/posts/21376.html">https://javamianshi.vercel.app/posts/21376.html</a></td>
+</tr>
+<tr>
+<td>MQ RabbitMq面试题</td>
+<td><a href="https://javamianshi.vercel.app/posts/39055.html">https://javamianshi.vercel.app/posts/39055.html</a></td>
+</tr>
+<tr>
+<td>MongoDB面试题</td>
+<td><a href="https://javamianshi.vercel.app/posts/7667.html">https://javamianshi.vercel.app/posts/7667.html</a></td>
+</tr>
+<tr>
+<td>Linux面试题</td>
+<td><a href="https://javamianshi.vercel.app/posts/5935.html">https://javamianshi.vercel.app/posts/5935.html</a></td>
+</tr>
+<tr>
+<td>Mybatis面试题</td>
+<td><a href="https://javamianshi.vercel.app/posts/42129.html">https://javamianshi.vercel.app/posts/42129.html</a></td>
+</tr>
+<tr>
+<td>redis面试题</td>
+<td><a href="https://javamianshi.vercel.app/posts/18435.html">https://javamianshi.vercel.app/posts/18435.html</a></td>
+</tr>
+</tbody></table>
+</li>
+</ul>
+<h2><span id="gong-zhong-hao">公众号</span><a href="#gong-zhong-hao" class="header-anchor">#</a></h2><p>最新更新会第一时间同步在公众号，强烈推荐大家关注一波！另外，公众号上有很多干货不会同步在线阅读网站。</p>
+<p><img src="https://hexojava.oss-cn-hangzhou.aliyuncs.com/img/qrcode_for_gh_174b01058fc1_258.jpg" alt="qrcode_for_gh_174b01058fc1_258"></p>
+]]></content>
+      <tags>
+        <tag>导航</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Java基础面试题（史上最全基础面试题，精心整理100家互联网企业面经</title>
     <url>/posts/25692.html</url>
     <content><![CDATA[<table>
