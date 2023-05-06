@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>留学生编程作业代做</title>
   
-  <subtitle>留学生CS作业代写辅导，1V1计算机课业辅导</subtitle>
+  <subtitle>1v1留学生CS作业代写，计算机课业辅导</subtitle>
   <link href="https://javamianshi.vercel.app/atom.xml" rel="self"/>
   
   <link href="https://javamianshi.vercel.app/"/>
@@ -30,6 +30,28 @@
       
     <summary type="html">&lt;h2&gt;&lt;span id=&quot;wang-zhan-gai-lan&quot;&gt;网站概览&lt;/span&gt;&lt;a href=&quot;#wang-zhan-gai-lan&quot; class=&quot;header-anchor&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://javami</summary>
+      
+    
+    
+    
+    
+    <category term="导航" scheme="https://javamianshi.vercel.app/tags/%E5%AF%BC%E8%88%AA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>留学生Computer Science编程作业代写</title>
+    <link href="https://javamianshi.vercel.app/posts/35542.html"/>
+    <id>https://javamianshi.vercel.app/posts/35542.html</id>
+    <published>2022-06-14T02:25:19.000Z</published>
+    <updated>2023-05-06T10:15:21.400Z</updated>
+    
+    <content type="html"><![CDATA[<h2><span id="ge-ren-jie-shao">个人介绍</span><a href="#ge-ren-jie-shao" class="header-anchor">#</a></h2><p>在北航读书的时候我是一名ACMer，最好的成绩是在<strong>亚洲区域赛拿过银牌</strong>。毕业后在Microsoft研究院一直从事基础研究工作，专攻领域下至Kernel &#x2F; OS &#x2F; Compiler，上至Database &#x2F; Web &#x2F; App。</p><p>相比中介&#x2F;机构&#x2F;工作室背后质量参差不齐的写手，我拥有<strong>七年代写经验，确保完成作业。熟知各年级课程的得分点以及coding style，轻松帮您提分。</strong></p><h2><span id="fu-wu-nei-rong">服务内容</span><a href="#fu-wu-nei-rong" class="header-anchor">#</a></h2><p>代写、辅导北美（美国、加拿大）、澳洲、英国以及其他国家的Computer Science编程作业，范围包括Assignment, Homework, Lab, Project和Final。</p><p>我不会给您看不懂的高逼格code，<strong>我的编程风格都是模仿您的slides和notes</strong>，为您量身打造，<strong>绝无超纲代码</strong>。</p><p>特别<strong>擅长各种疑难作业</strong>，做过大量Game Design、Operating System、Database System, Web Design，<strong>得分几乎全A</strong>。</p><h2><span id="zhi-liang-bao-zheng">质量保证</span><a href="#zhi-liang-bao-zheng" class="header-anchor">#</a></h2><p><strong>带测试的必全过，得分点的必全做</strong>，能顺手做掉的bonus也帮您做。<br>小作业24小时内完成，大作业24-72小时，加急12小时内，绝不浪费您的slip day。<br>代码肯定是手写原创，不违反honor code，交付的代码一定是独一无二的。<br><strong>免费提供售后服务</strong>，包括代码运行，讲解答疑。<br>Coding Style满足<span class="exturl" data-url="aHR0cDovL3poLWdvb2dsZS1zdHlsZWd1aWRlLnJlYWR0aGVkb2NzLm9yZy9lbi9sYXRlc3QvY29udGVudHM=" title="http://zh-google-styleguide.readthedocs.org/en/latest/contents">Google开源项目风格<i class="fa fa-external-link"></i></span>，对于您的编程规范学习之路是很有帮助的。</p><h2><span id="jie-ge-you-shi">价格优势</span><a href="#jie-ge-you-shi" class="header-anchor">#</a></h2><p>真正的<strong>无中介费用</strong>，欢迎您货比三家，支持PayPal&#x2F;支付宝&#x2F;微信支付。<br>我给您的不止是一个答案，还有我作为全栈工程师的经验，编程方法和技巧。</p><h2><span id="lian-xi-fang-shi">联系方式</span><a href="#lian-xi-fang-shi" class="header-anchor">#</a></h2><p>为了节省时间，方便报价，询问时麻烦附上年级和课程名，如：<br>大二，Algorithm and Data Structure<br>作业要求请微信扫码</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2&gt;&lt;span id=&quot;ge-ren-jie-shao&quot;&gt;个人介绍&lt;/span&gt;&lt;a href=&quot;#ge-ren-jie-shao&quot; class=&quot;header-anchor&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;在北航读书的时候我是一名ACMer，最好的成绩是在&lt;strong&gt;亚洲区</summary>
       
     
     
@@ -408,25 +430,6 @@
     <category term="表格" scheme="https://javamianshi.vercel.app/tags/%E8%A1%A8%E6%A0%BC/"/>
     
     <category term="表单验证" scheme="https://javamianshi.vercel.app/tags/%E8%A1%A8%E5%8D%95%E9%AA%8C%E8%AF%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://javamianshi.vercel.app/posts/16107.html"/>
-    <id>https://javamianshi.vercel.app/posts/16107.html</id>
-    <published>2022-06-08T13:37:17.356Z</published>
-    <updated>2022-06-12T14:25:54.327Z</updated>
-    
-    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="415a1f74f9967b64a6b4d6291be9d1e2df7d2295e48342eac2fd41b5d27f182b">f4cc23558ba95030556638b09840cfb7ba82318cec099dd47cb2607f39729f73108394f86f1ea9bc5085c46d9dc002cb6d6ef59bfa98c501ec31a65e0a5d7af898cd48a7b20140445fd378220ec92f04fbb5bff7e79e8673c66bc541f5f8309c1361211942bb219bab687644f40022ddd81b1d33c495119c39044f4988bb643a9e8fbcacb7fe65b4124f650388c6b67f983373cb3c203e193e877f9ae3278efde525a17bfa1bbe3aa128309f35c8aa8f3a56db41f0c29990358d2e32ba82333fe2fff555aaab2acd71715d035031ead527622fe24b4e9b79215e773a4945ca9b1c94cfdc98529696818cc3190d25142fcd98452655995a0ec9a772887fcb8ed8bcf25c85cb9e05ab91d9edb3c2990a2e6aabb358fb4a5b7bdfc5dc33f4bc08871ecc2279bbec511323a91e0452d019d26f9ebf016fd71221b92012673175a92c791ba00bba16ecf4d5166d9c4dc2f3f0d7157aac0bc72e7d27721785d06168185c0da88e40da586eba3181b58afbac01e31776c9dd779a979aebca23f32eb1436721a8e75e200c80cf5b2ea31ac34995b60d02960d8463bcca41bbe30c6e13f38e0989833d1a8fd3b5366968a33261b9ccb0a9474b3f5de3c6d864a02784d8901889a3e3625843ff0dc17f490daf25b8c7859fa7549529232caabee2620fd6e51f3c194169f6f8f939c24ce56ad685e0c57d318878ec9845f97d54c66f79325dbca623130eeff4c917f0623803a9c4cc194e0479ac8abd3dab34cc067699628e47dba234b6689cc63ad44012ab2dd2a3827b37da04976038dbabaeda86d517d5030a1f0b1b4ed5601fb72fa1ac41397f16afadf3820add550e59b25664e70e6cb04083d022157dc002e37b8d33d39ac84935512b93a109bb153b8c54e19a8080e1d93567d1485bfe85dee37b092f1ec0d560d8b3c8e9c73012cd433612fbbb00008226bc7291a5da7833e722fe868d765e49df942b4ab1e849ddb312b541c41b0b3bc61ad016604024a97b2c0d12b31cbfd7f609e6daa67a055d0e0bfdc1fe6577bd8ef98a0ccfe23e34e6120372c79fa4f89e73c21158dd0e8f0bda53c0dc49b71028bc8c39b20954235f023e50c3c0872bfb04ee162b649b66a9acd76b313bf6c78962bb60ffa6d73d0852155d01d01bcfae5165477507c140bb75371e0cde32ce7f1adc7ec22fa49f881a42ee0e2ce273c25ccc28573747be4ce6d20789405a6dd2c4ed4d7b968908a4a34d8bba27fb0073e7d4f83e503c8b449c7a3b0e5d040a2b13fcadf6c9ef30809246a912496a4f65d6d1ca13275318c763fd099da3cc1d045f0c8588c859579d12c0dbede7384bc93df072fb0b6bf9e466ed68f7194debaa35e268c01f5a2e749c1b30b6339408da5f1bf4d50c4b534ea51fbfb5564510d2478365a5c21470fe8251318f37bce0a2bcca62d41af620d1573c4912493cb9598f46b8d887d5057b4f49d3b054d32e369cd284102ccf46cde3b16a2c373b8cea6b4617e487b27d217580f128876f14766981a1e30b9688218da979fb7eb686ff1c323b72dc617c10af3107c0c008ab77707dcd84ab0e008d5e6f7a075bbae7e327697b8e68c9ac9b62dc9183756985ba74b3da23873890282f4730a7fc29136afa7b96d9824c47e48325ebfe3508bd5bbabcee2a82a7eb74e2c9ac1467982adf07cdc12ddbe92e299fcad904e27ffb28ff4437255e7992773e513dd12ee7aca8135dce2a7dd4fad0fb5738feead6f221c38ec9cbb8999bd03a57de70f5f5b7d0cfb6121cfc064e3831bbe7bbf76e7582687fc7e7f0d098822c959b16499beeea494c24e048d18c0e6896c5d9ded2d1072a9c2b50059999b2f2245237f869c321263dfc718129298337988b1ec86df48807cb2f7068c6efb0d51b7a6d04c81b27e21cae129e521790570c6c86729d0facf327f48e3691b6fabae2f9577c89eac8731a6ef56e19474418c114eecd7e5c9ac7b6263327d0f4ea4110bbf9dc12ecac3cd685d7943ca1419d11a2e1d7c279be700bff196ca6823e70e08d9202db809aac9556dfdd62b10fb33078234aaeacc629ba3f52e8ed90910fcadb7285cdae3a960f0431597e451102c881441bf7da8aa0c07c4d3aa4395108f515c55a2acbfae7259a5fe2f7351c58ea0052055746ce910c28fe0e644f6b4ea8fc56b7101c7ebb089ac9837f345fe3d179ef05f2097aaaf34dc46041a963063aca0400bf2a9fc26367258dfc8f99b1f5261c5442005f0032b38a87424d9907453d72a1bd75780b554388ddd2ebd08ed27ef25a49bdf049e277b563562476d2f80b7688de65151ea1f99bbc84b17c85951cb1dfe0521f90318f9ce457384f8075767ecf18fe828171c750a0dfc96fa03890f1bda9dba85f436e152a7b35024afd5a53f223c122e547162354a981a83c891fe2b94cef76c6d5a9bad9c175b4de6410314539df690a4db2e393a134ebc153b00efcc20376e0c68b12160bf0420cf956a17333dbf100ee1b9856dfa6c0453b40b07234ef17786a7af36c9ed86fd962aa37cb7c8703174f58298eba35e10d93a6839675a7609c1249bbe91a8bf905ed75bdc0ad9dffaafe11e6553b3a7cb763c1bddaa8788883012eac6322923dd1e3c6d756d48bc2fa91cef04b8b9bc32dd9a72b1e69fe140158372ece28259d647d2fd6c7b4e12e7870e5f6d9c4526b21b14a2ea07ba15e3209f20a225bd18bac8bc0da42a98a7b69024b9a853cd8e1ee8d7575eee8c581adc691ec7772d28b01e90def503d7df0c8247a31f91abdf5fc02b9f7a83405030b6c9c22bf26b68839f1ab359111d199934987234bdd91bd4cfc90c6e78f67756ecaac8fd6705b32bd7ea4b25b22597fa2021af0d34125a57709b21eb3bc8342527a48bdc2d6f856c6cf234257061028f49e6e2a157b99b73b2f9e6d07caef75be88699c1044f6ea8a8bd6d3ccf56ccc1aedb40948ef44811160c5f5ac740f468a7ce0e6ed07ed1acc568e96d2667486c53cea1d7d269947328d00a6e4fb46688fca8aa0fafbe2321be8bf8c0f7bf2c8ba0d90a8b5946cea2ba75b525d533753c7c096c16a815d857f6dbe32008861d1ead460f0802b804135e9a0e34207fb386f1298b8dc3e88b8502fdfa86b387efefea1127afde462060a46d617740d4e9c5c88dbc3d7aae030566f31d29182c403d419506fbacdff218137b6f92678d88d914954c9ab225a9beedf5ddd4bababf59ba5730e42b90cb2d1386f520addba1e00fde4f3ea57e32e3bee638337e291357e85a0207c8eedb0c1aa18a865e8a8a229c2d2697f2ce930f5703e7421f7624b3cf930938abf8c09c7fb90f501c85fd75ca35b9caffc900fa12b401593fbf46d3b7b7ecb6120d883f695e4c2684991eadd523b946eeec874dd1d4a82278d612441cf96139676bc71e3c2aa66c80858eb23dab06b31045cfcafca93847946b240bcffb7f7c0ea7ad5d0b32cc63a5f47992348f72c0d100beb10fabe9e7e91af52802a89f266c590479e9a4b6facc4455a9eb78b1ebeb3c35cb7b7a843dcb1610b73dbb3f6b51f26e0cf08aa016e09c757c1d9331f647e33ea6dc2daa171a529a99d7a06575773d8d1a43aca3f04cbc7b6c39cae3512b7a5c8e30feb10c0935b28470be706dbb37adce252213b57e02833bc88cf0cf72971649f8f4a2446f256b4e22a2a0557dc780f7367dbf37f39880dcab91a074cd79284a423e7f8b27af5f6c626dc02b5990037615f89dbb1a8b966017e541aaf7baad9873c9b084e43d8e5168f07b534a42dce4ca0ae58a13d7533ccdf6163cd9c0c543dfab1651165022e163afc0862ebc413cd8ca15719ee48bfb067e5f309bf2293fafcddeeb33a81027533955ac132180326f0ed6eef97c1ec905c30d13ed9a2b791fdc30b827339ced52a4681da621798a5e603df694aa2d6230042a9d756ba798955a436e63b1944aac0acdc6dec1578e51ebfa28fa4f2616e130d1f17a01df0e11cb646ebace4232de38cecca8762a746cd9793fc3c70debef866e4399648f6c06117d36de1d7c02e0c45f372ea243428a39a4314c1bc63507abecf9d15ce995b91b84e07a8eeb2430b49a3e7abdc46b7cc93fe5802e65558d53e52fc2194b2276934738cbfc82024c9b02fc428f801bdc7e24b3f0052761b13409cf1dfb67cdfb9b6dbee30d3bac76f501d4bf2c6411fed56a16e9348909deea312b1c262bcfc82a443b3a7b08e1df96a5769065f29ed2fed154d5a067b5777572ea494819a8e85b7f99ec557fca7434b8a415f44bb78f69ac41fab4bf4a3c77e2104166e0fdc721bd859b6953f626e120d824c9ba6458e21602f211e7e3b6197911a2e0ddf0853fa30f76850fe2a3f64c6b9b7964a16ccb03985b4fba25397b2b0efb448f60d7b43336d</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">输入密码界面提示说明</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-    
-    
-    <summary type="html">这是显示在首页的概述，正文内容均会被隐藏。</summary>
-    
-    
-    
-    <category term="Hexo" scheme="https://javamianshi.vercel.app/categories/Hexo/"/>
-    
     
   </entry>
   
