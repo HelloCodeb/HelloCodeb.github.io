@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>留学生编程作业代做</title>
   
-  <subtitle>专注于留学生CS作业代写辅导，1V1计算机课业辅导，求职辅导</subtitle>
+  <subtitle>留学生CS作业代写辅导，1V1计算机课业辅导</subtitle>
   <link href="https://javamianshi.vercel.app/atom.xml" rel="self"/>
   
   <link href="https://javamianshi.vercel.app/"/>
@@ -10,7 +10,7 @@
   <id>https://javamianshi.vercel.app/</id>
   
   <author>
-    <name>留学生作业帮</name>
+    <name>留学生CS作业</name>
     
   </author>
   
